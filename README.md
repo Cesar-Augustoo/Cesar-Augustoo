@@ -9,6 +9,7 @@
 
 </div><br/>
 
+<!--
 ## GitHub Status ⚡
 <div>
   <a href="https://github.com/Cesar-Augustoo">
@@ -19,10 +20,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesar-Augustoo&layout=compact&langs_count=7&theme=radical"/> 
   </center>
 </div>
-
-## Encontre-me 📫
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/cesar--augusto/])
-
+-->
 
 <!--
 **Cesar-Augustoo/Cesar-Augustoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
